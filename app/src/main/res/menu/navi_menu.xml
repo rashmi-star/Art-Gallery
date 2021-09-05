@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="My profile" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="settings" />
+    <item
+        android:id="@+id/positivity"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24"
+        android:title="Positivity"/>
+    <item
+        android:id="@+id/paint"
+        android:icon="@drawable/ic_baseline_draw_24"
+        android:title="Paint"/>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="logout" />
+
+</menu>
